@@ -1,0 +1,1 @@
+C:\Kotlin_projects\KotlinExercises\build\classes\kotlin\main\FoldablePhone.class;C:\Kotlin_projects\KotlinExercises\build\classes\kotlin\main\MainKt.class;C:\Kotlin_projects\KotlinExercises\build\classes\kotlin\main\Person.class;C:\Kotlin_projects\KotlinExercises\build\classes\kotlin\main\Phone.class;C:\Kotlin_projects\KotlinExercises\build\classes\kotlin\main\Song.class
